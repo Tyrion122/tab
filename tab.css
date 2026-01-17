@@ -1,0 +1,24 @@
+button{
+    background-color: cadetblue;
+    margin-top: 10px;
+}
+
+#First{
+    margin-left: 67px;
+}
+
+body{
+    background-color: rgb(173, 170, 170);
+}
+
+.content{
+    background-color: black;
+    color: white;
+    width: 370px;
+    height: 250px;
+    margin-left: 42px;
+}
+
+p{
+    margin-left: 15px;
+}
